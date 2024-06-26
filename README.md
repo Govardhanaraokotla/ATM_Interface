@@ -1,4 +1,4 @@
-# octanet services  
+# Octanet services  
 ATM INTERFACE DEVELOPMENT- This is a Project completed during my pythpn programming Internship with octanetservices
 
 
